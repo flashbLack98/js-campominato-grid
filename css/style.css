@@ -18,8 +18,8 @@
 }
 
 .box{
-    width: calc(100% / 10);
-    height: calc(100% / 10);
+    /* width: calc(100% / 10);
+    height: calc(100% / 10); */
     background-color: rgba(100, 100, 100, .5);
     border: 1px solid blue;
     display: inline-block;
